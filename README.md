@@ -6,4 +6,4 @@ GET request to '/user' to read a new user.
 PUT request to '/user' to update a new user.
 DELETE request to '/user' to delete a new user.
 
-https://heroku.com/jacobap
+https://jacobap.heroku.com
